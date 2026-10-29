@@ -1,0 +1,17 @@
+{
+  "name": "Word & Character Counter - Free Real-Time Text Analyzer",
+  "short_name": "Word Counter",
+  "description": "Live character, word, sentence, paragraph, reading time, and keyword density text analyzer.",
+  "start_url": "https://mahesh-yennam.github.io/Word-Counter/",
+  "scope": "https://mahesh-yennam.github.io/Word-Counter/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

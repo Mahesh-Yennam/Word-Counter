@@ -1,0 +1,17 @@
+# Dependencies & Build Artefacts
+node_modules/
+dist/
+build/
+.cache/
+
+# Environment & Local Files
+.env
+.env.local
+.DS_Store
+Thumbs.db
+
+# IDE Configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
